@@ -4,4 +4,6 @@ public abstract class Animal {
   Animal(String name) {
     this.name = name;
   }
+
+  public abstract void makeSound();
 }
