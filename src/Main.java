@@ -8,5 +8,8 @@ public class Main {
 
     d1.eat("Dog Food");
     c1.eat("Fish");
+
+    d1.showMood(true);
+    c1.showMood(false);
   }
 }
