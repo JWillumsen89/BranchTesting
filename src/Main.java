@@ -5,5 +5,8 @@ public class Main {
 
     d1.makeSound();
     c1.makeSound();
+
+    d1.eat("Dog Food");
+    c1.eat("Fish");
   }
 }
